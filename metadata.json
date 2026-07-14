@@ -1,0 +1,6 @@
+{
+  "name": "Divyanshi's Birthday Celebration",
+  "description": "A magical, interactive birthday wish website for Divyanshi with custom music, candles to blow, animated balloons to pop, and an elegant Birthday Card.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
