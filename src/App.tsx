@@ -319,7 +319,7 @@ export default function App() {
           {/* Header */}
           <div className="text-center mb-14 flex flex-col items-center animate-fade-in">
             <div className="inline-flex items-center gap-1.5 px-4 py-1.5 bg-white/[0.04] text-white/70 border border-white/10 rounded-full text-[9px] font-bold uppercase tracking-[0.25em] mb-4 shadow-sm animate-pulse">
-              <Calendar className="h-3.5 w-3.5 text-rose-400" /> Special Edition • July 14
+              <Calendar className="h-3.5 w-3.5 text-rose-400" /> Special Edition • July 15
             </div>
             
             <div className="mb-2">
