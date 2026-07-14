@@ -53,6 +53,8 @@ export default function App() {
 
   // Set up balloon generation and interval
   useEffect(() => {
+    document.title = "Happy Birthday Divyanshi 💖";
+    
     // Generate initial set of beautiful balloons
     const list: Balloon[] = Array.from({ length: 12 }).map((_, i) => ({
       id: Date.now() + i,
